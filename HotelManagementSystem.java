@@ -1,4 +1,4 @@
-package tic_tac_toe;
+package HotelManagementSystem;
 
 import java.util.Scanner;
 
